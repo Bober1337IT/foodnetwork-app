@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Foodnetwork</string>
+
+    <string name="food_name_1">Spaghetti alla Carbonara</string>
+    <string name="food_name_2">Ossobuco alla Milanese</string>
+    <string name="food_name_3">Risotto al Tartufo</string>
+    <string name="food_name_4">Panzanella</string>
+    <string name="food_name_5">Saltimbocca alla Romana</string>
+    <string name="food_name_6">Ravioli di Ricotta e Spinaci</string>
+    <string name="food_name_7">Arancini di Riso</string>
+    <string name="food_name_8">Zuppa Toscana</string>
+    <string name="food_name_9">Tiramisu</string>
+    <string name="food_name_10">Focaccia di Recco</string>
+
+    <string name="food_description_1">Tradycyjna potrawa z regionu Lacjum, przygotowywana z makaronu spaghetti, jajek, pecorino romano, guanciale i pieprzu.</string>
+    <string name="food_description_2">Duszone gicz cielęca z kością, podawana w gęstym sosie z białego wina, warzyw i bulionu, często z risotto alla milanese.</string>
+    <string name="food_description_3">Kremowe risotto z dodatkiem świeżych lub suszonych trufli, często z parmezanem i masłem dla podkreślenia smaku.</string>
+    <string name="food_description_4">Toskańska sałatka z czerstwego chleba, pomidorów, cebuli, ogórków i bazylii, skropiona oliwą z oliwek i octem winnym.</string>
+    <string name="food_description_5">Cienkie plastry cielęciny, zawijane z liściem szałwii i plasterkiem prosciutto, smażone na maśle i białym winie.</string>
+    <string name="food_description_6">Domowe pierożki wypełnione nadzieniem z ricotty i szpinaku, podawane z masłem szałwiowym lub sosem pomidorowym.</string>
+    <string name="food_description_7">Sycylijskie kulki ryżowe nadziewane mięsem, groszkiem, mozzarellą i smażone na złoty kolor.</string>
+    <string name="food_description_8">Gęsta zupa z jarmużu, ziemniaków, kiełbasy toskańskiej i śmietany, serwowana z chrupiącym chlebem.</string>
+    <string name="food_description_9">Deser warstwowy z biszkoptami nasączonymi espresso, kremem mascarpone, posypany kakao.</string>
+    <string name="food_description_10">Cienka focaccia z Ligurii, wypełniona miękkim serem stracchino, pieczona na chrupiąco.</string>
+</resources>
